@@ -1,5 +1,5 @@
 # Live Link:
-https://aditya-2407-g.github.io/SecureCrypt/
+secure-crypt.vercel.app
 
 ## Progress: 
 
